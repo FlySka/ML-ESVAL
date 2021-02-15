@@ -11,6 +11,15 @@ Pontificia universidad catolica de Valparaiso
 
 ## Indice
 
+* Exploracion de datos [[Jupyter Notebook]](https://github.com/FlySka/ML-ESVAL/blob/main/varios/Exploraci%C3%B3n%20de%20datos_V2.ipynb)
+
+* Codigos para entrenamiento de modelos [[Jupyter Notebook]](https://github.com/FlySka/ML-ESVAL/tree/main/Train)
+
+* Codigos para ejecucion de modelos [[Jupyter Notebook]](https://github.com/FlySka/ML-ESVAL/tree/main/Ejecucion)
+
+* Informe del proyecto  [[PDF]](https://github.com/FlySka/ML-ESVAL/blob/main/Entregables/Informe%20ML%20ESVAL_Joaquin%20Farias_V3.pdf) [[PDF (Formato doble columna)]](https://github.com/FlySka/ML-ESVAL/blob/main/Entregables/Informe%20ejecutivo%20ML_Joaquin%20Farias_V3.pdf)
+
+* Presentacion del proyecto [[PDF]](https://github.com/FlySka/ML-ESVAL/blob/main/Entregables/Presentacion%20proyecto%20ML%20ESVAL_Joaquin%20Farias_V3.pdf)
 
 ## Algunas indicaciones
 #### Dentro de cada carpeta hay un archivo README.txt para una descripcion mas detallada.
