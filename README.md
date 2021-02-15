@@ -9,7 +9,20 @@ Ingenieria civil electronica
 Pontificia universidad catolica de Valparaiso       
 ******************************************************
 
-## Indice
+## Descripción del proyecto
+
+En este proyecto se diseñaron modelos de machine learning para la empresa ESVAL S.A. que ayudaran a solucionar el problema de refacturas de clientes. A grandes rasgos las estas refacturas ocurren cuando hay un mal cobro a un cliente y este reclama; estos conlleva un costo para la empresa.
+LA base de datos es desbalanceada por lo que tuvieron que ocuparse metodos especiales para este tipo de bases de datos; esta no puede ser compartida por confidencialidad, así como tampoco los modelos guardados. Tambien, se crearon metricas especiales para el problema.
+
+Se hizo una exploración de los datos y se probaron distintos modelos y preprocesamiento de los datos.
+
+Se crearon modelos con los algoritmo:
+* Redes neuronales
+* árbol de decisión
+* Regresión logistica
+* XGBoost
+
+## Contenido
 
 * Exploracion de datos [[Jupyter Notebook]](https://github.com/FlySka/ML-ESVAL/blob/main/varios/Exploraci%C3%B3n%20de%20datos_V2.ipynb)
 
