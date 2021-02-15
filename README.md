@@ -9,9 +9,13 @@ Ingenieria civil electronica
 Pontificia universidad catolica de Valparaiso       
 ******************************************************
 
-# Dentro de cada carpeta hay un archivo README.txt para una descripcion mas detallada.
+## Indice
 
- Descripcion de los carpetas:
+
+## Algunas indicaciones
+#### Dentro de cada carpeta hay un archivo README.txt para una descripcion mas detallada.
+
+Descripcion de los carpetas:
 
 ---> Carpeta Train: dentro tiene los archivos para entrenar los modelos.
 
@@ -24,7 +28,8 @@ Pontificia universidad catolica de Valparaiso
 
 Para ocupar todos estos archivos se recomienda tener la base de datos en la carpeta especifica de train o uso diario, 
   segun corresponda.
- Para el caso de los datos no-analista los archivos deberian llamarse:
+
+Para el caso de los datos no-analista los archivos deberian llamarse:
    -> Para entrenamiento: "data-analista2016-2018v3.csv"
 
    -> Para test (uso diario): "data_analista.csv"
